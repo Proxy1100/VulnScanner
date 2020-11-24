@@ -1,0 +1,5 @@
+SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1
+metasploitable.localdomain ESMTP Postfix (Ubuntu)
+vsftpd 2.3.4
+OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)
+Linux telnetd
